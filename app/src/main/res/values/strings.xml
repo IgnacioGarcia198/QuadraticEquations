@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quadratic Equation Solver</string>
+    <string name="action_settings">Settings</string>
+    <string name="enterHint">Example: 3x+6+87x2-4+10x2-9x</string>
+    <string name="nacho_ime">Nacho IME</string>
+    <string name="subtype_en_US">English (US)</string>
+</resources>
